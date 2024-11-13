@@ -12,6 +12,12 @@ Cada proyecto está organizado en su propia carpeta e incluye:
 - **Ejemplos visuales** de la app en funcionamiento.
 - **Lecciones aprendidas** durante el desarrollo.
 
+## Lista de proyectos
+
+- Frontend
+  - [Single Page CV](https://roadmap.sh/projects/single-page-cv)
+
+
 ## Objetivo
 
 Mi objetivo con este repositorio es, no solo fortalecer mis habilidades técnicas, sino también compartir mi progreso en el aprendizaje continuo y contribuir con ejemplos prácticos.
